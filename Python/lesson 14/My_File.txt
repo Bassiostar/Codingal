@@ -1,0 +1,1 @@
+Hello, this is a brief introduction. I am learning file handling in Python.
