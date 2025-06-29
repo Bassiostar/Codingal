@@ -1,0 +1,10 @@
+This is the first line of the sample file.
+This is the second line, which is a bit longer.
+The third line follows, with some numbers: 12345.
+And here is the fourth line.
+Finally, the fifth line to complete our example.
+This is the sixth line.
+Seventh line here.
+Eighth line, almost done.
+Ninth line.
+Tenth and final line for this example.
